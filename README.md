@@ -9,3 +9,7 @@ bla bla bla
 ### Encabezado de tipo h3
 
 ble ble ble
+
+##### Encabezado de tipo h4
+
+bli bli bli
